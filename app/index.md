@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Weeknotes for the Biodiversity Net Gain Digital team"
+title: "Weeknotes from the Biodiversity Net Gain Digital Team"
 description: "#weeknotes are blogposts about what we have been working on."
 pagination:
   data: collections.all
