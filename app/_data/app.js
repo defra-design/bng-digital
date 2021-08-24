@@ -1,3 +1,3 @@
 module.exports = {
-  productName: 'Biodiversity Net Gain Register Weeknotes'
+  productName: 'BNG Digital'
 }
