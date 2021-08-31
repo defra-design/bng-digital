@@ -1,6 +1,11 @@
 $govuk-global-styles: true;
 $govuk-new-link-styles: true;
 
+$natural-england-green: #008531;
+
+$govuk-link-colour: $natural-england-green;
+$govuk-link-hover-colour: darken($natural-england-green, 10%);
+
 @import "govuk/all.scss";
 @import "../_components/all.scss";
 @import "vendor/prism.scss";
@@ -10,4 +15,9 @@ $govuk-new-link-styles: true;
   .govuk-template {
     background: #fff;
   }
+}
+
+// Remove the GOV.UK font-size 30px so the service name is aligns properly
+.app-header__link--homepage {
+  font-size: 0;
 }

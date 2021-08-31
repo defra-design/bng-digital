@@ -1,3 +1,3 @@
 module.exports = {
-  productName: 'BNG Digital'
+  productName: 'BNG Digital Services'
 }
