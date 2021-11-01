@@ -11,5 +11,5 @@ posts:
 eleventyComputed:
   eleventyNavigation:
     key: home
-    title: "{{ title }}"
+    title: "Natural England's Biodiversity Net Gain Digital Services Blog"
 ---
