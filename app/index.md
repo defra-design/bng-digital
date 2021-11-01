@@ -1,13 +1,13 @@
 ---
 layout: collection
-title: "Weeknotes from Natural England and Defra’s Biodiversity Net Gain Digital Services Team"
-description: "#weeknotes are blogposts about what we have been working on."
+title: "Natural England's Biodiversity Net Gain Digital Services Blog"
+description: "Blog posts about what we have been working on."
 pagination:
   data: collections.all
   reverse: true
   size: 50
 posts:
-  title: Weeknotes
+  title: Blog posts
 eleventyComputed:
   eleventyNavigation:
     key: home
