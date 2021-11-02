@@ -1,5 +1,5 @@
-# Biodiversity Net Gain Register Weeknotes
+# Natural England's Biodiversity Net Gain Digital Services Blog
 
-A place to find out about what the Biodiversity Net Gain Digital Team have been working on.
+Blog posts about what we have been working on.
 
 <https://bng-digital.herokuapp.com>
