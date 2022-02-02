@@ -21,3 +21,8 @@ $govuk-link-hover-colour: darken($natural-england-green, 10%);
 .app-header__link--homepage {
   font-size: 0;
 }
+
+// Image caption
+img + em {
+  @include govuk-font($size: 16);
+}
